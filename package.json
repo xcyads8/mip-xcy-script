@@ -1,0 +1,12 @@
+{
+    "name": "mip-xcy-script",
+    "version": "1.0.0",
+    "author": {
+        "name": "xcy",
+        "email": "luoshiqi@ads8.com",
+        "url": "http://www.mipengine.org"
+    },
+    "engines": {
+        "mip": ">=1.0.0"
+    }
+}
